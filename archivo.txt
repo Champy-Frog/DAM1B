@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 creo archivo en pruebas2
 creo archivo en pmaster
+=======
+archivo en pruebas2
+>>>>>>> pruebas2
